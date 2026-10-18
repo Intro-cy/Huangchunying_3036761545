@@ -1,4 +1,4 @@
-# ChenJianfei_3030135471 — Minimum Wages and Employment
+# Huangchunying_3036761545 — Minimum Wages and Employment
 ## Replication and Extension of Card & Krueger (1994), *AER* 84(4), 772–793
 
 Individual project — AI-assisted empirical paper replication and extension.

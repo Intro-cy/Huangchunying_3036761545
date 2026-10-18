@@ -1,8 +1,0 @@
-# working logs / build temp files (not part of the analysis deliverable)
-logs/
-.tmp-tool-results/
-*.log
-
-# python
-__pycache__/
-*.pyc

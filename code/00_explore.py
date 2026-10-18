@@ -9,7 +9,7 @@ import numpy as np
 pd.set_option("display.width", 200)
 pd.set_option("display.max_columns", 60)
 
-DATA = "/home/user/Doubao/chats/38447780988890626/data/input/public.csv"
+DATA = "/home/user/Doubao/chats/38447780988890626/data/raw/public.csv"
 df = pd.read_csv(DATA)
 
 print("Shape:", df.shape)

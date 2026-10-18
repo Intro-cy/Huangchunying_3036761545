@@ -4,7 +4,7 @@ project. Run from the repository root:
 
     python3 code/run_all.py
 
-Generates every table and figure in outputs/ from data/input/public.csv.
+Generates every table and figure in outputs/ from data/raw/public.csv.
 No manual editing of data or code is required between steps.
 """
 import subprocess

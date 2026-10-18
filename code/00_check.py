@@ -2,7 +2,7 @@
 import pandas as pd
 import numpy as np
 
-DATA = "/home/user/Doubao/chats/38447780988890626/data/input/public.csv"
+DATA = "/home/user/Doubao/chats/38447780988890626/data/raw/public.csv"
 df = pd.read_csv(DATA)
 
 # FTE

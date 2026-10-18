@@ -16,7 +16,7 @@ import numpy as np
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent
-INPUT = REPO / "data" / "input" / "public.csv"
+INPUT = REPO / "data" / "raw" / "public.csv"
 OUT_PROCESSED = REPO / "data" / "processed" / "ck94_clean.csv"
 
 # Status codes in the public data (verified empirically)
